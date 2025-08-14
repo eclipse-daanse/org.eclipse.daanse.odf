@@ -37,9 +37,9 @@
             </goals>
             <configuration>
               <xjbSources>bind.xjb</xjbSources>
-<!--              <sources>-->
-<!--                <source>../xsd</source>-->
-<!--              </sources>-->
+              <sources>
+                <source>../xsd</source>
+              </sources>
               <outputDirectory>src/main/gen</outputDirectory>
               <noGeneratedHeaderComments>true</noGeneratedHeaderComments>
             </configuration>

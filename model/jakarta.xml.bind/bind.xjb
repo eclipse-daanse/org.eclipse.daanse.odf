@@ -7,196 +7,196 @@
     schemaLocation="../xsd/anim.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.anim" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.anim" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/chart.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.chart" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.chart" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/config.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.config" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.config" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/db.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.db" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.db" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/dc.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.dc" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.dc" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/dr3d.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.dr3d" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.dr3d" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/draw.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.draw" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.draw" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/ds.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.ds" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.ds" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/fo.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.fo" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.fo" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/form.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.form" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.form" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/grddl.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.grddl" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.grddl" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/math.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.math" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.math" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/meta.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.meta" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.meta" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/number.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.number" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.number" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/office.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.office" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.office" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/dsig.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.dsig" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.dsig" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/text.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.text" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.text" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/manifest.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.manifest" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.manifest" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/presentation.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.presentation" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.presentation" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/script.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.script" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.script" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/smil.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.smil" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.smil" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/style.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.style" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.style" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/svg.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.svg" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.svg" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/table.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.table" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.table" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/xforms.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.xforms" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.xforms" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/xhtml.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.xhtml" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.xhtml" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/xlink.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.xlink" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.xlink" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
   <jaxb:bindings
     schemaLocation="../xsd/xml.xsd"
     node="/xs:schema">
     <jaxb:schemaBindings>
-      <jaxb:package name="org.eclipse.daanse.odf.xml.xml" />
+      <jaxb:package name="org.eclipse.daanse.odf.model.jakarta.xml.bind.xml" />
     </jaxb:schemaBindings>
   </jaxb:bindings>
 </jaxb:bindings>
