@@ -46,5 +46,7 @@ header:
     - 'license.templates'
     - '**/logback-test.xml'
     - '**/*.svg'
+    - 'model/xsd/*.xsd'
+    - 'model/jakarta.xml.bind/src/main/gen/**/*.java'
 
   comment: always
